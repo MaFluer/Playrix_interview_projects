@@ -8,4 +8,4 @@
 
 Стек: Pandas, plotly, matplotlib, seaborn, numpy, scipy. (графики построенные с помощью plotly в GitHub не отображаются)
 
-2. [**Исследование поведения пользователей новостного агрегатора.**](https://public.tableau.com/profile/vladislav.shag#!/vizhome/Praktikumproject/Dashboard1?publish=yes):
+2. [**Исследование поведения пользователей новостного агрегатора**](https://public.tableau.com/profile/vladislav.shag#!/vizhome/Praktikumproject/Dashboard1?publish=yes):
